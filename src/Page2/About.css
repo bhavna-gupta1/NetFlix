@@ -1,0 +1,26 @@
+.page2{
+    height: 40rem;
+    width: 100%;
+    display: flex;
+    /* justify-content: center;
+    align-items: center; */
+    background: black;
+}
+.left_side h1{
+color: white;
+font-size: 2.5rem;
+margin-left: 2rem;
+}
+.video-wrapper {
+    width: 200px;
+    height: 200px;
+    border: 1rem solid white;
+  }
+  
+  /* Additional styles for the ReactPlayer component */
+  .video-player {
+    width: 100%;
+    height: 100%;
+  }
+  
+  
