@@ -1,0 +1,277 @@
+
+.page6{
+    margin-top: -1.5rem;
+    height: 60rem;
+    width: 100%;
+    background: #000;
+}
+.pg6_h1{
+    /* margin-top: 3rem; */
+    margin-top: -0.9rem;
+    padding: 4rem;
+    color: white;
+    font-size: 3rem;
+   text-align: center;
+
+}
+.hrs{
+    height: 1.7rem;
+    width: 100%;
+     background:rgb(44, 43, 43);;
+}
+.left_side h2 {
+    color: white;
+    font-size: 1.6rem; /* Adjust the size as needed */
+    margin-left: 4rem;
+    margin-top: -1rem;
+    font-weight: normal; /* Ensure the font is not bold */
+  }
+ 
+  .bg{
+    height: 3.5rem;
+    width: 75rem;
+    background: #4b4b4b;
+   
+    color: white;
+  margin-top: -1rem;
+    margin-right:20rem;
+    margin-left: 1rem;
+    padding:10px ;
+   
+    display: flex;
+    align-items: center;
+  }
+  .bg h6{
+    font-size: 1.6rem;
+/* margin-left: 1.5rem; */
+  }
+  .para p{
+    height: 10rem;
+    width: 75rem;
+    margin-left: 1rem;
+    color: white;
+   font-size: 1.6rem;
+   padding:10px ;
+    background:rgb(58, 58, 58);
+    margin-top: -0.3rem;
+  }
+  button{
+    margin-left: 50rem;
+  }
+  .icon-button {
+    background: none; /* Remove background */
+    border: none; /* Remove border */
+   color:white; /* Set icon color */
+    font-size: 35px; /* Adjust icon size */
+    cursor: pointer; /* Add cursor pointer */
+    padding: 0; /* Remove padding */
+    display: flex; /* Center the icon */
+    align-items: center; /* Vertically center the icon */
+    justify-content: center; /* Horizontally center the icon */
+    margin-left: 60rem;
+  }
+  
+  .icon-button:hover {
+    color:rgb(179, 177, 177); /* Change color on hover */
+  }
+  .page6 {
+  margin-top: -1.5rem;
+  height: 60rem;
+  width: 100%;
+  background: #000;
+}
+
+.pg6_h1 {
+  margin-top: -0.9rem;
+  padding: 4rem;
+  color: white;
+  font-size: 3rem;
+  text-align: center;
+}
+
+.hrs {
+  height: 1.7rem;
+  width: 100%;
+  background: rgb(44, 43, 43);
+}
+
+.bg {
+  height: 3.5rem;
+  width: 75rem;
+  background: #4b4b4b;
+  color: white;
+  margin-top: -1rem;
+  margin-right: 20rem;
+  margin-left: 1rem;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  cursor: pointer; /* Added cursor pointer */
+}
+
+.bg h6 {
+  font-size: 1.6rem;
+}
+
+.para p {
+  height: auto; /* Adjusted to fit content */
+  width: 75rem;
+  margin-left: 1rem;
+  color: white;
+  font-size: 1.6rem;
+  padding: 10px;
+  background: rgb(58, 58, 58);
+  margin-top: -0.3rem;
+}
+
+.icon-button {
+  background: none; /* Remove background */
+  border: none; /* Remove border */
+  color: white; /* Set icon color */
+  font-size: 35px; /* Adjust icon size */
+  cursor: pointer; /* Add cursor pointer */
+  padding: 0; /* Remove padding */
+  display: flex; /* Center the icon */
+  align-items: center; /* Vertically center the icon */
+  justify-content: center; /* Horizontally center the icon */
+  margin-left: auto;
+}
+
+.icon-button:hover {
+  color: rgb(179, 177, 177); /* Change color on hover */
+}
+.page6 {
+    margin-top: -1.5rem;
+    /* height: auto; Adjust to fit content */
+    height: 60rem;
+    width: 100%;
+    background: #000;
+  }
+  
+  .pg6_h1 {
+    margin-top: -0.9rem;
+    padding: 4rem;
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+  }
+  
+  .hrs {
+    height: 1.7rem;
+    width: 100%;
+    background: rgb(44, 43, 43);
+  }
+  
+  .pg6_content > div {
+    margin-bottom: 1rem; /* Space between each question and answer block */
+  }
+  
+  .bg {
+    height: 3.5rem;
+    width: 75rem;
+    background: #4b4b4b;
+    color: white;
+    margin: 0 auto; /* Center align the block */
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    cursor: pointer; /* Add cursor pointer */
+  }
+  
+  .bg h6 {
+    font-size: 1.6rem;
+  }
+  
+  .para {
+    width: 75rem;
+    /* margin: 0 auto; */
+  }
+  
+  .para p {
+    height: auto; /* Adjusted to fit content */
+    color: white;
+    font-size: 1.6rem;
+    padding: 10px;
+    background: rgb(58, 58, 58);
+  }
+  
+  .icon-button {
+    background: none; /* Remove background */
+    border: none; /* Remove border */
+    color: white; /* Set icon color */
+    font-size: 35px; /* Adjust icon size */
+    cursor: pointer; /* Add cursor pointer */
+    padding: 0; /* Remove padding */
+    margin-left: auto; /* Push the icon to the right */
+    display: flex; /* Center the icon */
+    align-items: center; /* Vertically center the icon */
+    justify-content: center; /* Horizontally center the icon */
+  }
+  
+  .icon-button:hover {
+    color: rgb(179, 177, 177); /* Change color on hover */
+  }
+  .bg_content6 {
+    position: absolute;
+    top: 45%; /* Position the content vertically centered */
+    left: 50%; /* Position the content horizontally centered */
+    transform: translate(-50%, -50%); /* Center the content precisely */
+    text-align: center; 
+    z-index: 1; /* Ensure content appears above the image */
+    color: white; /* Set text color to white */
+    /* font-weight: 500; */
+    /* font-size: 2rem; */
+  }
+  .email6 input{
+    height: 3rem;
+    width: 35rem;
+    color: hsl(0, 0%, 100%);
+    font-weight: bold;
+    font-size: large;
+    background:black;
+    /* background: rgba(255, 255, 255, 0.6); */
+    border-radius: 1px solid white;
+    /* text-align: center; */
+  }
+  .email6 button{
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    height: 3.3rem;
+    margin-left: 0.3rem;
+    width: 8rem;
+    font-weight: bold;
+    font-size: medium;
+  }
+  .email6{
+    margin-left: 9rem;
+    display: flex;
+    flex-direction: row;
+  }
+  
+ 
+  
+  
+  .bg_content6 h1 {
+    white-space: nowrap; /* Prevent text wrapping */
+    font-size: 3.5rem; /* Adjust font size as needed */
+    margin-bottom: 15px;
+    font-weight: 500;
+  }
+  
+  .bg_content6 h2 {
+    font-size: 1.7rem; /* Adjust font size as needed */
+    margin-bottom: 15px;
+    font-weight: 400;
+
+  }
+  
+  .bg_content6 h4 {
+    font-size: 1.5rem; /* Adjust font size as needed */
+    margin-bottom: 15px;
+    font-weight: 400;
+  }
+
+ 
+
+ 

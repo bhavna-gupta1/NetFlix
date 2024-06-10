@@ -1,0 +1,33 @@
+.page5{
+    height: 40rem;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    /* justify-content: center;
+   { align-items: center; */
+    background: black;
+}
+img{
+    margin-top: 5rem;
+    height: 30rem;
+    margin-left: -2rem;
+}
+.rightsides h1{
+    color: white;
+    font-size: 3rem;
+    margin-left: 1.6rem;
+    margin-top: 12rem;
+    }
+    .rightsides{
+        /* margin-top: 3rem; */
+        margin-left: -2rem;
+    }
+    .rightsides h2 {
+      color: white;
+      font-size: 1.6rem; /* Adjust the size as needed */
+      margin-left: 1.6rem;
+      margin-top: -1rem;
+      margin-right: 0.5rem;
+      font-weight: normal; /* Ensure the font is not bold */
+    }
+ 

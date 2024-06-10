@@ -3,6 +3,11 @@ import logo from "./logo.png";
 import './Home.css';
 import bg2 from './bg_img2.jpg';
 import About from '../Page2/About';
+import Pg3 from '../Page3/Pg3';
+import Pg4 from '../Page4/Pg4';
+import Pg5 from '../Page5/Pg5';
+import Pg6 from '../Page6/Pg6';
+
 
 function Home() {
   return (
@@ -21,14 +26,22 @@ function Home() {
                 <h4>Ready to watch? Enter your email to create or restart your membership.</h4>
                <div className='email'>
                <input  type='email' placeholder='Email address'/>
-               <button>Get Started</button>
+               <button >Get Started</button>
                </div>
             </div>
             
         </div>
     </div>
+   <div className='hr'> </div>
     <About/>
-    
+    <div className='hr'> </div>
+    <Pg3/>
+    <div className='hr'> </div>
+    <Pg4/>
+    <div className='hr'> </div>
+    <Pg5/>
+    <div className='hr'> </div>
+    <Pg6/>
   </>
   )
 }

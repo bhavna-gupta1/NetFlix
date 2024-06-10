@@ -78,6 +78,7 @@ body, html {
     color: white;
     border-radius: 5px;
     height: 3.3rem;
+    margin-left: 0.3rem;
     width: 8rem;
     font-weight: bold;
     font-size: medium;
@@ -126,3 +127,10 @@ body, html {
     margin-bottom: 15px;
     font-weight: 400;
   }
+
+ .hr{
+  height: 0.8rem;
+  width: 100%;
+  background:rgb(44, 43, 43);
+ }
+ 
